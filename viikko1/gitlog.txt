@@ -1,0 +1,154 @@
+$ git log --stat|cat
+commit fe3cbb4e9a24ec9c5e568e15639280d86719b314
+Author: Lauri <lauri.harkala@helsinki.fi>
+Date:   Mon Nov 2 21:00:26 2020 +0200
+
+    asdoasfm
+
+ filet/{file2 => file22} | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 784fc4e92737c3dac15877051313806b96ff8ab3
+Author: Lauri <lauri.harkala@helsinki.fi>
+Date:   Mon Nov 2 20:59:57 2020 +0200
+
+    lisää kaikki tiedostot
+
+ filet/file1 | 0
+ filet/file2 | 0
+ filet/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 423e745a6304de622beec0dd309a89821504c3b6
+Author: Lauri <lauri.harkala@helsinki.fi>
+Date:   Mon Nov 2 20:47:59 2020 +0200
+
+    muutoksia muutoksia
+
+ eka.txt    | 2 +-
+ kolmas.txt | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+
+commit 2413951e762cc7ea09a1a6b2f2220f466f758e80
+$ git log --stat|cat
+commit fe3cbb4e9a24ec9c5e568e15639280d86719b314
+Author: Lauri <lauri.harkala@helsinki.fi>
+Date:   Mon Nov 2 21:00:26 2020 +0200
+
+    asdoasfm
+
+ filet/{file2 => file22} | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 784fc4e92737c3dac15877051313806b96ff8ab3
+Author: Lauri <lauri.harkala@helsinki.fi>
+Date:   Mon Nov 2 20:59:57 2020 +0200
+
+    lisää kaikki tiedostot
+
+ filet/file1 | 0
+ filet/file2 | 0
+ filet/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 423e745a6304de622beec0dd309a89821504c3b6
+Author: Lauri <lauri.harkala@helsinki.fi>
+Date:   Mon Nov 2 20:47:59 2020 +0200
+
+    muutoksia muutoksia
+
+ eka.txt    | 2 +-
+ kolmas.txt | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+
+commit 2413951e762cc7ea09a1a6b2f2220f466f758e80
+Author: Lauri <lauri.harkala@helsinki.fi>
+Date:   Mon Nov 2 20:42:05 2020 +0200
+
+    tiedosto poistettu
+
+ tiedosto.txt | 46 ----------------------------------------------
+ 1 file changed, 46 deletions(-)
+
+commit 101603db7916e24f5e74db5f902432caa0398cdd
+Author: Lauri <lauri.harkala@helsinki.fi>
+Date:   Mon Nov 2 20:41:32 2020 +0200
+
+    uudelleennimetty tiedosto.txt
+
+ eka.txt | 46 ++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 46 insertions(+)
+
+commit 6a6cbcdab7e3849443ce58559467baeb18fc7d3f
+Author: Lauri <lauri.harkala@helsinki.fi>
+Date:   Mon Nov 2 20:39:01 2020 +0200
+
+    poista toinen.txt
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit f83d3f9debf94169ee8f637a45443f3e5f1b69f4
+Author: Lauri <lauri.harkala@helsinki.fi>
+Date:   Mon Nov 2 20:37:05 2020 +0200
+
+    muuta tiedosto.txt
+
+ tiedosto.txt | 5 ++---
+ 1 file changed, 2 insertions(+), 3 deletions(-)
+
+commit e452ffe39cb6fecd0cf4bb72e5e794851c3c657d
+Author: Lauri <lauri.harkala@helsinki.fi>
+Date:   Mon Nov 2 20:35:22 2020 +0200
+
+    tekstiä lisätty tiedostoon
+
+ tiedosto.txt | 48 +++++++++++++++++++++++++++++++++++++++++++++++-
+ 1 file changed, 47 insertions(+), 1 deletion(-)
+
+commit 67daeb50f0621894dd12338ddf10b1f38156f745
+Author: Lauri <lauri.harkala@helsinki.fi>
+Date:   Mon Nov 2 20:29:12 2020 +0200
+
+    stuffit luotu
+
+ stuff/stuff.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 0073f4b2253b72453033f8f498adaaee85546446
+Author: Lauri <lauri.harkala@helsinki.fi>
+Date:   Mon Nov 2 20:27:13 2020 +0200
+
+    muokattu kolmas ja toinen
+
+ kolmas.txt | 2 +-
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+
+commit 1885f95cccd6615f72a399372480bb5fbffc9898
+Author: Lauri <lauri.harkala@helsinki.fi>
+Date:   Mon Nov 2 20:25:51 2020 +0200
+
+    lisätty kolmas.txt
+
+ kolmas.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit f05759f8427c2e4187d07d8743c8bb804bda7acf
+Author: Lauri <lauri.harkala@helsinki.fi>
+Date:   Mon Nov 2 20:20:19 2020 +0200
+
+    "muutos ja lisäys"
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 53811d0eb02a61f90102746d3781cbe784089d70
+Author: Lauri <lauri.harkala@helsinki.fi>
+Date:   Mon Nov 2 20:18:45 2020 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
